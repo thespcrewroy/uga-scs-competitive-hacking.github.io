@@ -1,4 +1,4 @@
-# Star Tank Security Policies and Procedures
+# Hack Pack Security Policies and Procedures
 
 This document outlines security procedures and general policies for the
 GitHub Readme Stats project.
@@ -14,6 +14,7 @@ software. We appreciate your efforts and responsible disclosure and will
 make every effort to acknowledge your contributions.
 
 Report security vulnerabilities by emailing the Hack Pack team.
+
 ```
  hello@thehackpack.org
 ```
