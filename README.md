@@ -58,7 +58,7 @@
 <br>
 
 > [!IMPORTANT]\
-> ➤ **Our GitHub repository is available [\***here**_](https://github.com/The-Hack-Pack/uga-scs-competitive-hacking.github.io). We use a static-site generator called [_**Docusaurus**\*](https://docusaurus.io/) version 3.7.0, which you should familiarize yourself with first. After you have a basic understanding of the documentation, you can proceed to either make your own challenge or edit an existing one!**
+> ➤ **Our GitHub repository is available [here](https://github.com/The-Hack-Pack/uga-scs-competitive-hacking.github.io). We use a static-site generator called [Docusaurus](https://docusaurus.io/) version 3.7.0, which you should familiarize yourself with first. After you have a basic understanding of the documentation, you can proceed to either make your own challenge or edit an existing one!**
 
 ### Creating a New Challenge
 
