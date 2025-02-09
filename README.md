@@ -52,7 +52,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)](#contribution-guide)
 
-## Contribution Guide
+## [Contribution Guide](https://github.com/thespcrewroy/uga-scs-competitive-hacking.github.io/blob/development/CONTRIBUTING.md)
 
 **This is our guide on how you can make your own challenges or edit existing ones for this website!**
 <br>
