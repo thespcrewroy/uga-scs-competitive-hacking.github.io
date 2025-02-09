@@ -1,6 +1,20 @@
 # Contribution Guide
 
 **This is our guide on how you can make your own challenges or edit existing ones for this website!**
+
+<details>
+<summary>📖 Table of Contents</summary>
+<br />
+  
+## Table of Contents
+- [Creating a New Challenge](#creating-a-new-challenge)
+- [Editing an Existing Challenge](#editing-an-existing-challenge)
+- [Creating a New Writeup](#creating-a-new-writeup)
+- [Editing an Existing Writeup](#editing-an-existing-writeup)
+- [Have Questions?](#have-questions)
+- [Thanks to all our Contributors!](#thanks-to-all-our-contributors)
+</details>
+
 <br>
 
 > [!IMPORTANT]\
