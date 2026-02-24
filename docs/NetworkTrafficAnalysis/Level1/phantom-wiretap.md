@@ -35,7 +35,7 @@ Q4. What is the DNS transaction ID in frame 11?
 <PasswordForm2 hash="7d13a80cca0621286f31913144bf33d0de14cbf8bf680ca5c0b5b6fd372cc45adce06616fa3af06debdfd4cf7cb9445904f5b585abad6f74a7a728605db7aa00" algorithm="sha512" challengeName = "Phantom Wiretap 4"  />
 
 Q5. The domain flag.thp.lan returns both A and AAAA records. The returned IP values encode a hidden message THP-AA#A-####. Decode that IP values to get the flag.
-<PasswordForm2 hash="351453ee14af1c1e4e7d235cd438bb509c3fe7fb8e3b5822168e54495e795efe783311c6a588d3fd4f2ddef130038ba6929c5f388f7b7f1ca7bde0886626be58" algorithm="sha512" challengeName = "Phantom Wiretap 5"  />
+<PasswordForm2 hash="5fc09281425ff403b8efdf0959d685902a0a78043dc61f641e5f1a5822266056fca8ccfffd4ba5ac9005dd58455898a02737656d46a9c35fe4c17406a60b6bb1" algorithm="sha512" challengeName = "Phantom Wiretap 5"  />
 
 Q6. What is the average DNS payload size in bytes (to 2 decimal places)?
 <PasswordForm2 hash="9d52f0bc8fa5233a99e59a0e742ef1e988187e40139fa23130a4c1d8654353345abeccbb40082066bfa31917042d5de369a7e234107b857a9827759b9e886e2c" algorithm="sha512" challengeName = "Phantom Wiretap 6"  />
