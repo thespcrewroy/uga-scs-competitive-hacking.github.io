@@ -1,10 +1,10 @@
 ---
-description: "Network Traffick Analysis | Level 1 - Phantom Wiretap"
+description: "Network Traffic Analysis | Level 1 - Phantom Wiretap"
 sidebar_position: 0
 tags: [level1]
 ---
 
-import PasswordForm from '@site/src/components/PasswordForm2';
+import PasswordForm2 from '@site/src/components/PasswordForm2';
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import DownloadLink from '@site/src/components/DownloadLink';
@@ -12,7 +12,7 @@ import '@site/src/components/css/challengeBox.css';
 
 # Phantom Wiretap
 
-Network Traffick Analysis | Level 1 - Phantom Wiretap
+Network Traffic Analysis | Level 1 - Phantom Wiretap
 
 <div className="challenge-box">
   ## Challenge
