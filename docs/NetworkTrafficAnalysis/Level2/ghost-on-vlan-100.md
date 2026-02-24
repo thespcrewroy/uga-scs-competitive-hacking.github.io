@@ -1,7 +1,7 @@
 ---
 description: "Network Traffic Analysis | Level 2 - Ghost on Vlan 100"
 sidebar_position: 0
-tags: [level1]
+tags: [level2]
 ---
 
 import PasswordForm2 from '@site/src/components/PasswordForm2';
@@ -19,7 +19,7 @@ Network Traffic Analysis | Level 2 - Ghost on Vlan 100
   Below is a raw Ethernet frame captured from a somwhere in Romania. Dissect the Ethernet frame and analyze the encapsulated data.
 
   <a href="/assets/NetworkTrafficAnalysis/ghostvlanimir.txt" download class="download-btn-link">
-    <button type="button" class="download-btn">Download phantom.pcapng</button>
+    <button type="button" class="download-btn">Download ghostvlanimir.txt</button>
   </a>
 
 Q1. What is the destination MAC address?
