@@ -1,6 +1,5 @@
 <p align="center">
 <img src="https://github.com/The-Hack-Pack/uga-scs-competitive-hacking.github.io/blob/main/static/img/social.png" alt="Logo" width="500" height="250" />
-<h1 align="center">The Hack Pack Website</h1>
 <p align="center">
 <a href="https://github.com/The-Hack-Pack/uga-scs-competitive-hacking.github.io/graphs/framework"><img alt="Framework" src="https://img.shields.io/badge/Docusaurus-v3.7.0-blue.svg" height="20"/></a>
 <a href="https://github.com/The-Hack-Pack/uga-scs-competitive-hacking.github.io/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/The-Hack-Pack/uga-scs-competitive-hacking.github.io.svg" height="20"/></a>
