@@ -54,7 +54,7 @@
 <br>
 
 > [!IMPORTANT]\
-> ➤ **Our GitHub repository is available [here](https://github.com/The-Hack-Pack/uga-scs-competitive-hacking.github.io). We use a static-site generator called [Docusaurus](https://docusaurus.io/) version 3.7.0, which you should familiarize yourself with first. After you have a basic understanding of the documentation, you can proceed to either make your own challenge or edit an existing one!**
+> **Our GitHub repository is available [here](https://github.com/The-Hack-Pack/uga-scs-competitive-hacking.github.io). We use a static-site generator called [Docusaurus](https://docusaurus.io/) version 3.7.0, which you should familiarize yourself with first. After you have a basic understanding of the documentation, you can proceed to either make your own challenge or edit an existing one!**
 
 ### Creating a New Challenge
 
@@ -67,7 +67,7 @@
 - [ ] Copy-paste the template below into your doc
 
 > [!TIP]\
-> ➤ <b><i>Make sure to replace every field in ALL CAPS with your challenge's information!</i></b>
+> <b><i>Make sure to replace every field in ALL CAPS with your challenge's information!</i></b>
 
 <details>
 <summary>‼️ <b>Reveal Template</b></summary>
@@ -115,10 +115,10 @@ From there, you can fork the repository, edit the page, and make a pull request 
 Our officer team will review the changes and publish them!
 
 > [!NOTE]\
-> ➤ <b><i>Make sure to DM one of the officers with the answer(s) to the challenge! This is required for approval!</i></b>
+> <b><i>Make sure to DM one of the officers with the answer(s) to the challenge! This is required for approval!</i></b>
 
 > [!CAUTION]\
-> ➤ <b><i>DO NOT TOUCH THE GH-PAGES BRANCH!</i></b>
+> <b><i>DO NOT TOUCH THE GH-PAGES BRANCH!</i></b>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)](#feedback)
 
