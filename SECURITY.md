@@ -1,12 +1,5 @@
 # Hack Pack Security Policies and Procedures
 
-This document outlines security procedures and general policies for the
-Hack Pack Website.
-
-- [Hack Pack Security Policies and Procedures](#hack-pack-security-policies-and-procedures)
-  - [Reporting a Vulnerability](#reporting-a-vulnerability)
-  - [Disclosure Policy](#disclosure-policy)
-
 ## Reporting a Vulnerability
 
 The Hack Pack Development team and community take all security vulnerabilities
