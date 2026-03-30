@@ -32,9 +32,7 @@
 <details>
 <summary>📖 Table of Contents</summary>
 <br />
-
-## Table of Contents
-
+  
 - [Contribution Guide](#contribution-guide)
   - [Creating a New Challenge](#creating-a-new-challenge)
   - [Editing an Existing Challenge](#editing-an-existing-challenge)
