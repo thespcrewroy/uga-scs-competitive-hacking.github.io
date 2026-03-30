@@ -49,8 +49,15 @@ as an appointed representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may
-be reported to the community leaders responsible for enforcement at [hello@thehackpack.org](mailto:hello@thehackpack.org). All complaints will be reviewed and
-investigated promptly and fairly.
+be reported to the community leaders responsible for enforcement at:
+* [Sami Menik](mailto:sami.menik@uga.edu)
+* [Tyler Lyons](mailto:tnl56757@uga.edu)
+* [SriRam SuriSetty](mailto:ss18317@uga.edu)
+* [Neil Correia](mailto:nac55642@uga.edu)
+* [Swapnil Roy](mailto:sr42946@uga.edy)
+* [Pranav Arkatala](mailto:pa38192@uga.edu)
+
+* All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of
 the reporter of any incident.
